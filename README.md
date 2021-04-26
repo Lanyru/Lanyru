@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lanyru aka Sirumal 👋
 - 👀 I’m interested in Coding, Gaming, Linux, Women 👀
-- 🌱 I’m currently learning C++, Javascript 🌱
+- 🌱 I’m currently learning C++, Javascript, Python 🌱
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
